@@ -1,0 +1,1 @@
+# Proyecto GAMMA - Paquete principal
